@@ -3,9 +3,3 @@ spring:
     name: csj-ai-conde-helper
   profiles:
     active: local
-langchain4j:
-  community:
-    dashscope:
-      chat-model:
-        api-key: <sk-b5178e64db7048db9aa3d046f56cc696>
-        model-name: qwen-max
